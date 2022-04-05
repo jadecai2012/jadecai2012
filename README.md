@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Jade
+- 👀 I’m interested in Data Analysis
+- 🌱 I’m currently learning Data Analysis with R
+- 💞️ I’m looking to collaborate on Keggle Case Studies
+- 📫 Jade.cai2012@gmail.com
